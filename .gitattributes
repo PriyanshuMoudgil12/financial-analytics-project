@@ -1,0 +1,7 @@
+*.ipynb linguist-documentation
+data/raw/*.csv linguist-generated
+data/processed/*.csv linguist-generated
+reports/*.csv linguist-generated
+reports/*.png linguist-generated
+dashboard/*.html linguist-generated
+*.sql linguist-detectable
